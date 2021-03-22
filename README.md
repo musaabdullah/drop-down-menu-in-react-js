@@ -26,4 +26,4 @@ Your app is ready to be deployed!
 
 ### Deployment
 
-### `npm run build` fails to minify
+### `npm run build`
